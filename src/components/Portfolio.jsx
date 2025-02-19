@@ -6,7 +6,7 @@ import "swiper/css/pagination";
 
 const Portfolio = () => {
   const images = [
-    "src/assets/bristol.jpg",
+    "./assets/bristol.jpg",
     "https://via.placeholder.com/800x400?text=Photo+2",
     "https://via.placeholder.com/800x400?text=Photo+3",
   ];
