@@ -1,7 +1,7 @@
 const Footer = () => {
     return (
-      <footer className="text-center py-6 bg-gray-900 text-white">
-        <p><a href="https://instagram.com/tomcavilla" className="underline">Instagram</a></p>
+      <footer className="text-center py-6 text-white">
+        <p><a href="//instagram.com/tomcavilla/"><img class="instagram" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png" ></img></a></p>
       </footer>
     );
   };

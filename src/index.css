@@ -21,3 +21,22 @@
 .swiper-button-prev {
   color: white !important; /* Change arrow color */
 }
+
+footer {
+  background-color: #3C3C5D;
+}
+
+h1, h2 {
+  color: #3C3C5D;
+}
+
+nav {
+  border-bottom: 1px solid #3C3C5D;
+  text-align: center;
+}
+
+.instagram {
+  width: 2%;
+  height: 2%;
+  margin: 0 auto;
+}

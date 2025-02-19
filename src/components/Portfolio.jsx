@@ -12,7 +12,7 @@ const Portfolio = () => {
   ];
 
   return (
-    <section id="events" className="relative text-center py-16 text-black bg-gray-50">
+    <section id="events" className="relative text-center py-16 text-black bg-stone-50">
       <h2 className="text-3xl font-bold mb-6">MY EVENTS PORTFOLIO</h2>
       
       <Swiper
@@ -28,9 +28,11 @@ const Portfolio = () => {
           "--swiper-button-next": "#FFF"
         }}
       >
-        {images.map((src, index) => (
+        {
+        
+        images.map((src, index) => (
           <SwiperSlide key={index}>
-            <img src={src} alt={`Event ${index + 1}`} className="w-full rounded-lg" />
+            <a href="/1"><img src={src} alt={`Event ${index + 1}`} className="w-full" /></a>
           </SwiperSlide>
         ))}
       </Swiper>
