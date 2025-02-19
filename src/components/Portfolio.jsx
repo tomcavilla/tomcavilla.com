@@ -7,7 +7,7 @@ import "swiper/css/pagination";
 const Portfolio = () => {
   const images = [
     "https://lh3.googleusercontent.com/pw/AP1GczOc3yJyDsj_pkzQbek08rYSFZ_iZJzhejX4pQ4Gu54vJnenKtEMEkW_UC5rFaLb6NhH57RE5Tu1MdUE86Tfe9spwJsuRnKDPz-MtrO16oRWatWB7_zi9eXvzG06zrHtuXXYWPz_heOpf2cslNxurse-=w2884-h1922-s-no-gm?authuser=0",
-    "https://photos.fife.usercontent.google.com/pw/AP1GczODY-SSaHLqT76Bq457X4nDNNHdgCGO4_90ShNlgb8RjiYRhgAxcv1a=w2884-h1922-s-no-gm?authuser=0",
+    "https://lh3.googleusercontent.com/pw/AP1GczOvvlcxZkJhyzjg2x054sow996_D7KQO4bA5JStW3MIwA8ZS8c-fKQstrAV5hbIMgL-3eC5bOEFiXXZTM2ESLf94V2BGwbKnfjeXPaHPxGRiCD4mDpCkao64vZ4ItmS-itD9-wgi3y5egu3_8PfZLeR=w2884-h1922-s-no-gm?authuser=0",
     "https://lh3.googleusercontent.com/pw/AP1GczM_bLseWimhkOWyX0QSOvWd11zpjXl7pyxJYnexsYu9JQ0Xjf6wFrrRuZ1gakbWuqzzzOLmVeySDXx26RknyfCw2sGO4OkVg6JtmqmHyZmDEePuGbDNApdyXnR4biyZ8ffun0KNPdXvkw00e3ThcXAY=w2884-h1922-s-no-gm?authuser=0",
   ];
 
