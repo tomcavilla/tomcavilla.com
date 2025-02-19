@@ -6,7 +6,7 @@ import "swiper/css/pagination";
 
 const Portfolio = () => {
   const images = [
-    "./assets/bristol.jpg",
+    "https://lh3.googleusercontent.com/pw/AP1GczOc3yJyDsj_pkzQbek08rYSFZ_iZJzhejX4pQ4Gu54vJnenKtEMEkW_UC5rFaLb6NhH57RE5Tu1MdUE86Tfe9spwJsuRnKDPz-MtrO16oRWatWB7_zi9eXvzG06zrHtuXXYWPz_heOpf2cslNxurse-=w2884-h1922-s-no-gm?authuser=0",
     "https://via.placeholder.com/800x400?text=Photo+2",
     "https://via.placeholder.com/800x400?text=Photo+3",
   ];
