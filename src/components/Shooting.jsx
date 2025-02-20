@@ -6,7 +6,7 @@ import "swiper/css/pagination";
 
 const Shooting = () => {
   const images = [
-    "",
+    "https://lh3.googleusercontent.com/pw/AP1GczPqriawx9CqrSb9TDGfn3BOMPjY_IRF8QEA_ekqAx-1gQWWg64-RpGeJ6i6mrqvGOaG1rNt4t6su_E5j4Wz0z4kwqSKwY67hi1tMISZ_q-sQi0uSBk3xOPyIJghSqy0XW5dK7blR55Ciepf4yTgYdDd=w2884-h1922-s-no-gm?authuser=0",
   ];
 
   return (
