@@ -19,7 +19,6 @@ const Volleyball = () => {
     "https://lh3.googleusercontent.com/pw/AP1GczONGTnzGpyCc3AmxKqpObl2-HRoA8V_qT_3Q2_IsRN4XJCLtDpwQ032OUE1fO_hdC-hjc8A2-08o57eQnPQXxKuD7B3jYm7uKwfJfti5mh9Hy3DmCmsOHn33WYaXNOTOXUSr1aF8jmAll-YodKWcFN0=w2884-h1922-s-no-gm?authuser=0",
     "https://lh3.googleusercontent.com/pw/AP1GczM6gc2dODggugKUOkgI5Gw0m0VDP9Stc9Wi9x4olOJqG9qa6kWOAeIRqeifL7RUrnYs-Pca-X9PXtw0r-msxbbG7VATyxMsuZDESM13ttjh0qOe8BKp9l69HOeqaSvWbETvaHUsKTxCvDlZXrABQdxm=w2884-h1922-s-no-gm?authuser=0",
     "https://lh3.googleusercontent.com/pw/AP1GczPJRPzvmRkKn5Low_OX3IN6BXfOfe4WOABA0R1KXKHJ0iJurE2yh0A2hKY2u7Nbe8LqE5UjuUoIwhiZb9Eg5KWeJiYLylUgPL7M_ha5C8louHRtEw3c7B8NMDl2PzVAqAQxUA8QSUQPvbzukMjjbRLA=w2884-h1922-s-no-gm?authuser=0",
-    ""
   ];
 
   return (
