@@ -39,7 +39,7 @@ const Gallery = () => {
                     <h1 class="text-7xl">Gallery</h1>
                     <p class="pt-4">Collections of the rest of my photography.</p>
                     </div>
-                    <div className="max-w-6xl mx-auto p-6">
+                    <div className="max-w-9xl mx-auto p-6">
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                         {projects.map((project, index) => (
                         <div key={index} className="flex flex-col md:flex-row items-center gap-6">
