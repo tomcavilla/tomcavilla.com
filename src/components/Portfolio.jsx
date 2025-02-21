@@ -34,7 +34,7 @@ const Portfolio = () => {
         
         images.map((src, index) => (
           <SwiperSlide key={index}>
-            <a href="/events/"><img src={src} alt={`Events Portfolio`} className="w-9/10" /></a>
+            <a href="/events/"><img src={src} alt={`Events Portfolio`} className="w-max" /></a>
           </SwiperSlide>
         ))}
       </Swiper>
