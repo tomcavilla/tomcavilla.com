@@ -44,3 +44,7 @@ nav {
 .gallery-link:hover {
   color:#9d9dda;
 }
+
+#Exmouth09-02, #Bristol09-01 img {
+  box-shadow: 1px 1px 1px black;
+}
