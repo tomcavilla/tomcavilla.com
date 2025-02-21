@@ -1,6 +1,6 @@
 const Gallery = () => {
     return (
-      <section id="gallery" className="py-16 bg-stone-50">
+      <section id="gallery" className="py-4 bg-stone-50">
         <h2 className="text-3xl font-bold text-center">GALLERIES</h2>
         <div className="mt-6 flex justify-center space-x-4">
           <a href="/gallery/"><img src="https://lh3.googleusercontent.com/pw/AP1GczP07WhyWY7GXJLuWfOUZh-WvNGY2iYqo1oVonyCh49s_zY0xfHJYdrCXGy8JCRp12A7W2Fn6641SPNBelc6_DPU2tpgdZzsoNOLck-jbneMw04WL8aSbVTY98D1FythWcTD6P-wh0eMeNlCEAiX_wHS=w872-h581-s-no-gm?authuser=0" alt="Bristol " className="rounded-lg shadow-md"/></a>
