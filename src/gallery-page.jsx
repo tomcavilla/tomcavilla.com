@@ -5,7 +5,7 @@ const Gallery = () => {
     return (
         <div>
             <Navbar />
-            <div class="py-16 text-center bg-stone-500">
+            <div class="py-16 text-center">
                 <section id="Galleries" class="">
                     <h1 class="text-7xl">Gallery</h1>
                     <p class="pt-4">Collections of the rest of my photography.</p>
@@ -14,9 +14,9 @@ const Gallery = () => {
                             <a href="/exmouth/"><h3 class="gallery-link text-2xl underline pt-8">Exmouth 09/02/2025</h3></a>
                             <p class="pt-2">Finally a bit of sun came out in February and had to get out. Photos from a walk around Exmouth, shot Sony A7IV - 50mm f/1.8 Sony Lens.</p>
                             <div class="grid grid-cols-3 gap-4 justify-items-center pt-8">
-                                <div class="w-2/3"><img src="https://lh3.googleusercontent.com/pw/AP1GczMxQQq6YUzYxo-EkHbevXbxM7ueba_BEs75n145IpFGcjAcPNZgMDW0wpjyryGAsYnTsCMyoVe2sfURElUW_9iCMBwIk25LXXvt5XFJmsGoAMCMuzLa2ec0qBn83KpCd7zsQYX16OvwN549uVZ-G7k6=w1554-h1036-s-no-gm?authuser=0"></img></div>
-                                <div class="w-2/3"><img src="https://lh3.googleusercontent.com/pw/AP1GczN_4EDAUDY_pa3j5AipuLD0ZiRKn-lMm4HN3kQkIn2bWMf9ULfjCdVShcEajD7AdUwbUOjHCbe8TEbLztNOBHx_qM5M1ECPiyY1BREFjmd8nr0QYInUkepJJlTWnuuWEVdk0Ywh_V7jLM4jojEPqd4K=w1554-h1036-s-no-gm?authuser=0"></img></div>
-                                <div class="w-2/3"><img src="https://lh3.googleusercontent.com/pw/AP1GczNY3cBtKwZeZsaMbaL2zYMXmZ_FFpNo--p-y2IwIfXu2qYKU3Qg7NRlyKjrVfV5Ai4xndvHpUXUx3sTiMvgmtdCNTnrlLviblVzYRr_k3C_YVhiW5iaFYP50slVhdPkwE9xuCpqP6Tun2y2Aeslw1vr=w1554-h1036-s-no-gm?authuser=0"></img></div>
+                                <div class="w-3/4"><img src="https://lh3.googleusercontent.com/pw/AP1GczMxQQq6YUzYxo-EkHbevXbxM7ueba_BEs75n145IpFGcjAcPNZgMDW0wpjyryGAsYnTsCMyoVe2sfURElUW_9iCMBwIk25LXXvt5XFJmsGoAMCMuzLa2ec0qBn83KpCd7zsQYX16OvwN549uVZ-G7k6=w1554-h1036-s-no-gm?authuser=0"></img></div>
+                                <div class="w-3/4"><img src="https://lh3.googleusercontent.com/pw/AP1GczN_4EDAUDY_pa3j5AipuLD0ZiRKn-lMm4HN3kQkIn2bWMf9ULfjCdVShcEajD7AdUwbUOjHCbe8TEbLztNOBHx_qM5M1ECPiyY1BREFjmd8nr0QYInUkepJJlTWnuuWEVdk0Ywh_V7jLM4jojEPqd4K=w1554-h1036-s-no-gm?authuser=0"></img></div>
+                                <div class="w-3/4"><img src="https://lh3.googleusercontent.com/pw/AP1GczNY3cBtKwZeZsaMbaL2zYMXmZ_FFpNo--p-y2IwIfXu2qYKU3Qg7NRlyKjrVfV5Ai4xndvHpUXUx3sTiMvgmtdCNTnrlLviblVzYRr_k3C_YVhiW5iaFYP50slVhdPkwE9xuCpqP6Tun2y2Aeslw1vr=w1554-h1036-s-no-gm?authuser=0"></img></div>
                             </div>
                         </div>
                     </section>
