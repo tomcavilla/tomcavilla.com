@@ -5,7 +5,7 @@ const Gallery = () => {
     return (
         <div>
             <Navbar />
-            <div class="py-16 text-center">
+            <div class="py-16 text-center justify-items-center">
                 <section id="Galleries" class="">
                     <div class="w-1/2">
                     <h1 class="text-7xl">Gallery</h1>
