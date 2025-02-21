@@ -21,7 +21,6 @@ const Shooting = () => {
     "https://lh3.googleusercontent.com/pw/AP1GczPB5pfqklhRREB-Gg7Zk4uNKvcRk7YP5abiVD9x3ZUncxyqEi9rB1BlMzyalXvSoM26h6HqwhgkGdadMlPFk4fsqFA29YxxJftXM4HQUN7uMF6OncT9m0bZoNhsdSH9ftwcrQwvBFA9WbnBBr310Dg8=w2884-h1922-s-no-gm?authuser=0",
     "https://lh3.googleusercontent.com/pw/AP1GczNXcaVfAiFcra1T_Wi995r49EPliJ_6wsUKfe2pHpBE6oMjP1bc9nyxnPXoFzlopbo8Vrz5JqpbGmsG9mcwhHwc5IemhzASlH3ui4E3a19zna73_pVW9_HXgmJDdsg_sQZB3d1LO42YAJb2QGMyVjTl=w2884-h1922-s-no-gm?authuser=0",
     "https://lh3.googleusercontent.com/pw/AP1GczNdQ3QkGp9kkkAJjGnXOap2a7B_9bPeanIPf-ajRybpkDzrmfnzCUfQ5XnCpFh26R_gDeXS50Cwufva0B3uTPQAvRCyl-G9Y9W_AnpZn4p7OyFk-d_dkTa7hI0ktDcrEV64fzkip_zcfuPn9pFU_f5S=w2884-h1922-s-no-gm?authuser=0",
-    ""
   ];
 
   return (
