@@ -5,22 +5,28 @@ const Gallery = () => {
 
     const projects = [
         {
+            title: "Topsham 18/02/25",
+            description: "10 mile walk along the river, from home in Exeter, to Topsham and back. Shot on Sony A7IV - Sony 50mm f/1.8.",
+            image: "https://lh3.googleusercontent.com/pw/AP1GczP_tgjfxxajZPiQjmbe2zYEDW_36IWpEz42bVVHoWwnDl0BvrNp_9O2_d0Ulq0GQBuDfT-NjdztIROKtK5yteWhVCqFdzCEnjxN8e5ygfyKJ91CmnznArLRcUixBhD2TpXaPu1wnmHKs74iVvMUoxbn=w1003-h669-s-no-gm?authuser=0",
+            link: "/topsham/",
+          },
+        {
           title: "Exmouth 09/02/25",
-          description: "Finally a bit of sun came out in February and had to get out. Photos from a walk around Exmouth, shot Sony A7IV - 50mm f/1.8 Sony Lens.",
+          description: "Photos from a walk around Exmouth in February sun. Shot on Sony A7IV - Sony 50mm f/1.8.",
           image: "https://lh3.googleusercontent.com/pw/AP1GczN_4EDAUDY_pa3j5AipuLD0ZiRKn-lMm4HN3kQkIn2bWMf9ULfjCdVShcEajD7AdUwbUOjHCbe8TEbLztNOBHx_qM5M1ECPiyY1BREFjmd8nr0QYInUkepJJlTWnuuWEVdk0Ywh_V7jLM4jojEPqd4K=w1554-h1036-s-no-gm?authuser=0",
           link:"/exmouth/",
         },
         {
-          title: "",
-          description: "",
-          image: "",
-          link: "",
+          title: "Mevagissey 30/01/25",
+          description: "Walk along the coast path from Mevagissey to Gorranhaven. Shot on Fujifilm x100F.",
+          image: "https://lh3.googleusercontent.com/pw/AP1GczMbhhEItsdz5m8q8xlugz1DI5dsBo7joap2OgZENYWXhsvtE308e2cNGjq3PuDP1G9ywk4tF4F6wdqgFFa1B-Pl3I8k4vU3dvseaVkV12fc74ls54ROTKsk8xk8NTOEctoSz-KSEtOpYVyvwc7XHpRU=w1003-h669-s-no-gm?authuser=0",
+          link: "/mevagissey/",
         },
         {
-          title: "",
-          description: "",
-          image: "",
-          link: "",
+          title: "Dartmoor 19/01/25",
+          description: "Short trip to Haytor in Dartmoor, went for a walk following the ponies about. Shot on Sony A7IV - Tamron 28-75mm f/2.8.",
+          image: "https://lh3.googleusercontent.com/pw/AP1GczOP9IDCZjcLeAqb9Inwg7pdad71ri1RujI-rIDCT2sILQMkg417GDJigpt8DdGsvYhWrzSSebt8a95BBJHnYYZq-0NulPH7kkFuaO_krCPxW7re0IMhsRSlOsx0QVADX-Yr4YeHqlZuKjdOrTgoX7KY=w1554-h1036-s-no-gm?authuser=0",
+          link: "/dartmoor/",
         },
         {
           title: "Bristol 09/01/25",
