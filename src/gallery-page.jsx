@@ -36,19 +36,18 @@ const Gallery = () => {
                     <p class="pt-4">Collections of the rest of my photography.</p>
                     </div>
                     <div className="max-w-6xl mx-auto p-6">
-                        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                            {projects.map((project, index) => (
-                            <div key={index} className="flex flex-col md:flex-row items-center gap-6">
-                                <img src={project.image} alt={project.title} className="w-full md:w-1/2 aspect-[16/9] object-cover rounded-lg shadow-md" />
-                                <a href={project.link}><img src={project.image} alt={project.title} className="w-full md:w-1/2 aspect-[16/9] object-cover rounded-lg shadow-md" /></a>
-                                <div className="md:w-1/2">
-                                <h2 className="text-2xl font-bold">{project.title}</h2>
-                                <p className="text-gray-600 mt-2">{project.description}</p>
-                                <button className="mt-4 px-4 py-2 bg-black text-white rounded-md">See more</button>
-                                </div>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                        {projects.map((project, index) => (
+                        <div key={index} className="flex flex-col md:flex-row items-center gap-6">
+                            <img src={project.image} alt={project.title} className="w-full md:w-1/2 h-64 object-cover rounded-lg shadow-md" />
+                            <div className="md:w-1/2">
+                            <h2 className="text-2xl font-bold">{project.title}</h2>
+                            <p className="text-gray-600 mt-2">{project.description}</p>
+                            <button className="mt-4 px-4 py-2 bg-black text-white rounded-md">See more</button>
                             </div>
-                            ))}
                         </div>
+                        ))}
+                    </div>
                     </div>
                     
                 </section>
