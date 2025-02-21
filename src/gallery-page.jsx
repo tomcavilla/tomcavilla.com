@@ -47,7 +47,7 @@ const Gallery = () => {
                             <div className="md:w-1/2">
                             <h2 className="text-2xl font-bold">{project.title}</h2>
                             <p className="text-gray-600 mt-2">{project.description}</p>
-                            <button href={project.link} className="mt-4 px-4 py-2 bg-black text-white rounded-md">See more</button>
+                            <button onclick={project.link} className="mt-4 px-4 py-2 --color-indigo text-white rounded-md gallery-link">See more</button>
                             </div>
                         </div>
                         ))}
