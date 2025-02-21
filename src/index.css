@@ -40,3 +40,7 @@ nav {
   height: 2%;
   margin: 0 auto
 }
+
+.gallery-link:hover {
+  color:#4f4f64;
+}

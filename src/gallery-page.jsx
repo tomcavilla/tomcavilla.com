@@ -11,7 +11,7 @@ const Gallery = () => {
                     <p>Collections of the rest of my photography work.</p>
                     <section>
                         <div id="Bristol09-01">
-                            <a href='/bristol/'><h3 class="text-2xl underline hover:bg-stone-300">Bristol 09/01/2025</h3></a>
+                            <a class="gallery-link" href='/bristol/'><h3 class="text-2xl underline">Bristol 09/01/2025</h3></a>
                             <p>Day trip to Bristol in January 2025.</p>
                             <div class="grid grid-cols-3 gap-4">
                                 <img src=""></img>
