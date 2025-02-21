@@ -13,7 +13,7 @@ const Gallery = () => {
                     </div>
                     <section>
                         <div id="Exmouth09-02">
-                            <div class="w-1/2">
+                            <div class="w-1/2 mx-auto text-center">
                             <a href="/exmouth/"><h3 class="gallery-link text-2xl underline pt-8">Exmouth 09/02/2025</h3></a>
                             <p class="pt-2">Finally a bit of sun came out in February and had to get out. Photos from a walk around Exmouth, shot Sony A7IV - 50mm f/1.8 Sony Lens.</p>
                             </div>
