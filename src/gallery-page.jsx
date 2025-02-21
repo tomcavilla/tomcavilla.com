@@ -5,7 +5,7 @@ const Gallery = () => {
     return (
         <div>
             <Navbar />
-            <div class="py-16 text-center">
+            <div class="py-16 text-center bg-stone-500">
                 <section id="Galleries" class="">
                     <h1 class="text-7xl">Gallery</h1>
                     <p class="pt-4">Collections of the rest of my photography.</p>
