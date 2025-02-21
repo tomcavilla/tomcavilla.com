@@ -39,7 +39,7 @@ const Soul = () => {
         
         images.map((src, index) => (
           <SwiperSlide key={index}>
-            <img src={src} alt={`Event ${index + 1}`} className="w-max" />
+            <img src={src} alt={`Soul Choir @ Bootlegger`} className="w-max" />
           </SwiperSlide>
         ))}
       </Swiper>
