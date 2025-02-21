@@ -14,7 +14,7 @@ const Portfolio = () => {
   ];
 
   return (
-    <section id="events" className="relative text-center py-16 text-black bg-stone-50">
+    <section id="events" className="relative text-center py-8 text-black bg-stone-50">
       <h2 className="text-3xl font-bold mb-6">MY EVENTS PORTFOLIO</h2>
       
       <Swiper
