@@ -14,7 +14,7 @@ const Portfolio = () => {
   ];
 
   return (
-    <section id="events" className="relative text-center py-8 text-black bg-stone-50">
+    <section id="events" className="relative text-center py-8 text-black bg-stone-50 justify-items-center">
       <h2 className="text-3xl font-bold mb-6">MY EVENTS PORTFOLIO</h2>
       
       <Swiper
@@ -34,7 +34,7 @@ const Portfolio = () => {
         
         images.map((src, index) => (
           <SwiperSlide key={index}>
-            <a href="/events/"><img src={src} alt={`Events Portfolio`} className="w-full" /></a>
+            <a href="/events/"><img src={src} alt={`Events Portfolio`} className="w-9/10" /></a>
           </SwiperSlide>
         ))}
       </Swiper>
