@@ -26,7 +26,7 @@ const Gallery = () => {
           title: "Bristol 09/01/25",
           description: "Day trip to Bristol in January 2025. Shot on Fujifilm x100F.",
           image: "https://lh3.googleusercontent.com/pw/AP1GczP07WhyWY7GXJLuWfOUZh-WvNGY2iYqo1oVonyCh49s_zY0xfHJYdrCXGy8JCRp12A7W2Fn6641SPNBelc6_DPU2tpgdZzsoNOLck-jbneMw04WL8aSbVTY98D1FythWcTD6P-wh0eMeNlCEAiX_wHS=w872-h581-s-no-gm?authuser=0https://lh3.googleusercontent.com/pw/AP1GczP07WhyWY7GXJLuWfOUZh-WvNGY2iYqo1oVonyCh49s_zY0xfHJYdrCXGy8JCRp12A7W2Fn6641SPNBelc6_DPU2tpgdZzsoNOLck-jbneMw04WL8aSbVTY98D1FythWcTD6P-wh0eMeNlCEAiX_wHS=w872-h581-s-no-gm?authuser=0",
-          link: "/bristol/",
+          link: "/bristol/"
         },
     ];
     
@@ -43,10 +43,11 @@ const Gallery = () => {
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                         {projects.map((project, index) => (
                         <div key={index} className="flex flex-col md:flex-row items-center gap-6">
-                            <a href={project.link}><img src={project.image} alt={project.title} className="w-full md:w-1/2 aspect-[16/9] object-cover rounded-lg shadow-md" /></a>
+                            <img src={project.image} alt={project.title} className="w-full md:w-1/2 aspect-[16/9] object-cover rounded-lg shadow-md" />
                             <div className="md:w-1/2">
-                            <a href={project.link}><h2 className="text-2xl font-bold gallery-link">{project.title}</h2></a>
+                            <h2 className="text-2xl font-bold">{project.title}</h2>
                             <p className="text-gray-600 mt-2">{project.description}</p>
+                            <button href={project.link} className="mt-4 px-4 py-2 bg-black text-white rounded-md">See more</button>
                             </div>
                         </div>
                         ))}
