@@ -7,13 +7,13 @@ const Gallery = () => {
             <Navbar />
             <div class="py-16 text-center justify-items-center">
                 <section id="Galleries" class="">
-                    <div class="w-1/2 mx-auto text-center">
+                    <div class="w-1/3 mx-auto text-center">
                     <h1 class="text-7xl">Gallery</h1>
                     <p class="pt-4">Collections of the rest of my photography.</p>
                     </div>
                     <section>
                         <div id="Exmouth09-02">
-                            <div class="w-1/2 mx-auto text-center">
+                            <div class="w-1/3 mx-auto text-center">
                             <a href="/exmouth/"><h3 class="gallery-link text-2xl underline pt-8">Exmouth 09/02/2025</h3></a>
                             <p class="pt-2">Finally a bit of sun came out in February and had to get out. Photos from a walk around Exmouth, shot Sony A7IV - 50mm f/1.8 Sony Lens.</p>
                             </div>
@@ -26,7 +26,7 @@ const Gallery = () => {
                     </section>
                     <section>
                         <div id="Bristol09-01">
-                            <div class="w-1/2 mx-auto text-center">
+                            <div class="w-1/3 mx-auto text-center">
                             <a href='/bristol/'><h3 class="gallery-link text-2xl underline pt-8">Bristol 09/01/2025</h3></a>
                             <p class="pt-2">Day trip to Bristol in January 2025. Shot on Fujifilm x100F.</p>
                             </div>
