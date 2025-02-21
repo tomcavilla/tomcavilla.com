@@ -39,7 +39,7 @@ const Gallery = () => {
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                             {projects.map((project, index) => (
                             <div key={index} className="flex flex-col md:flex-row items-center gap-6">
-                                <img src={project.image} alt={project.title} className="w-full md:w-1/2 h-64 object-cover rounded-lg shadow-md" />
+                                <img src={project.image} alt={project.title} className="w-full md:w-1/2 aspect-[16/9] object-cover rounded-lg shadow-md" />
                                 <div className="md:w-1/2">
                                 <h2 className="text-2xl font-bold">{project.title}</h2>
                                 <p className="text-gray-600 mt-2">{project.description}</p>
