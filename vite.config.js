@@ -18,7 +18,12 @@ export default defineConfig({
       input: {
         main: resolve(__dirname, 'index.html'),
         events: resolve(__dirname, 'events/index.html'),
-        gallery: resolve(__dirname, 'gallery/index.html')
+        gallery: resolve(__dirname, 'gallery/index.html'),
+        topsham: resolve(__dirname, 'topsham/index.html'),
+        exmouth: resolve(__dirname, 'exmouth/index.html'),
+        mevagissey: resolve(__dirname, 'mevagissey/index.html'),
+        dartmoor: resolve(__dirname, "dartmoor/index.html"),
+        bristol: resolve(__dirname, "bristol/index.html")
       },
     },
   },
