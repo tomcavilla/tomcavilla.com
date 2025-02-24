@@ -23,7 +23,8 @@ export default defineConfig({
         exmouth: resolve(__dirname, 'exmouth/index.html'),
         mevagissey: resolve(__dirname, 'mevagissey/index.html'),
         dartmoor: resolve(__dirname, "dartmoor/index.html"),
-        bristol: resolve(__dirname, "bristol/index.html")
+        bristol: resolve(__dirname, "bristol/index.html"),
+        bjj: resolve(__dirname, "bjj/index.html")
       },
     },
   },

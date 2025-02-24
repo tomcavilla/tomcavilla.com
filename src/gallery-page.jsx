@@ -34,6 +34,12 @@ const Gallery = () => {
           image: "https://lh3.googleusercontent.com/pw/AP1GczP07WhyWY7GXJLuWfOUZh-WvNGY2iYqo1oVonyCh49s_zY0xfHJYdrCXGy8JCRp12A7W2Fn6641SPNBelc6_DPU2tpgdZzsoNOLck-jbneMw04WL8aSbVTY98D1FythWcTD6P-wh0eMeNlCEAiX_wHS=w872-h581-s-no-gm?authuser=0https://lh3.googleusercontent.com/pw/AP1GczP07WhyWY7GXJLuWfOUZh-WvNGY2iYqo1oVonyCh49s_zY0xfHJYdrCXGy8JCRp12A7W2Fn6641SPNBelc6_DPU2tpgdZzsoNOLck-jbneMw04WL8aSbVTY98D1FythWcTD6P-wh0eMeNlCEAiX_wHS=w872-h581-s-no-gm?authuser=0",
           link: "../bristol/"
         },
+        {
+          title: "Brazilian Jiu-Jitsu 02/11/25",
+          description: "Pietro's BJJ Competition in Plymouth, Shot on Sony A6300 - Sigma 18-50mm f/2.8.",
+          image: "https://lh3.googleusercontent.com/pw/AP1GczPqw6Sag_ZU4AAvDJgQ5Gq6IjiSFs2pi4IK_7pvyUhIlGtIkpt6guM3ZhfcCDF1NCwMyNJyY58boL8t6L3xLzuinIIxKpnUE2hcCVINFzrFYqZzApFc30eiIH5uledr9xWVwhyHSqh3cDuDuIa50LmK=w2884-h1922-s-no-gm?authuser=0",
+          link: "../bjj/"
+        }
     ];
     
     return (
