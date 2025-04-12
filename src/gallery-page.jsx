@@ -5,6 +5,24 @@ const Gallery = () => {
 
     const projects = [
         {
+          title: "Severn Estuary 01/04/25",
+          description: "End of the day after working around Somerset. Shot on Sony A7IV - Tamron 28-75mm f/2.8.",
+          image: "https://lh3.googleusercontent.com/pw/AP1GczNmsy7DNGkTLT7pB5xDZPMrnSljHTct45Eew-8nbDbk6gruOuNlXjRx48dDGNg4a4Ve7-zd-pzmkdhP6-zKc4rsj4ZwixkzQwknDIhhtcLKql_gwlY8EkScOb8kHiWN_WVPFFrb-fj-6gOlY9Gv8knt=w1562-h1042-s-no-gm?authuser=0",
+          link: "../severn/",
+        },
+        {
+            title: "Brazilian Jiu Jitsu 16/03/25",
+            description: "Pietro's BJJ Competition in Thornbury, Shot on Sony A7IV - Tamron 28-75mm f/2.8.",
+            image: "https://lh3.googleusercontent.com/pw/AP1GczNWix6axZphV0J_jfqAA3-FzdgmWeOVtXjGdzhpZ4E3VpiYtEqXbBHIzkehWyCx_Z_2PD_NmzI_37mB3-2QDOrlw2SnS14XFn2EdsKXmUsN2V47HGtZP6pc4c51xKD50HlCFXugR3Kwnk9CcMjyNJrb=w1562-h1042-s-no-gm?authuser=0",
+            link: "../bjj2/",
+        },
+        {
+            title: "Carlyon Bay 02/03/25",
+            description: "Walk from Duport to Carlyon Bay, along the coast path. Shot on Fujifilm x100F.",
+            image: "https://lh3.googleusercontent.com/pw/AP1GczNC1RU-ryZhl2n54yFMg7fcAXCbGzlDz0ZdOxzgOi9p6-4qo67Cz1-nYazUJtkxb8OvCXNbbUvkwP7ZcQIOM0SqmTi29iLtu-1_o3fgPAJm2-A08gcP0zk8tArSgTAHeodtqUi0xVnPBr_Wiy5u2CTc=w1562-h1042-s-no-gm?authuser=0",
+            link: "../carlyon-bay/",
+        },
+        {
             title: "Topsham 18/02/25",
             description: "10 mile walk along the river, from home in Exeter, to Topsham and back. Shot on Sony A7IV - Sony 50mm f/1.8.",
             image: "https://lh3.googleusercontent.com/pw/AP1GczP_tgjfxxajZPiQjmbe2zYEDW_36IWpEz42bVVHoWwnDl0BvrNp_9O2_d0Ulq0GQBuDfT-NjdztIROKtK5yteWhVCqFdzCEnjxN8e5ygfyKJ91CmnznArLRcUixBhD2TpXaPu1wnmHKs74iVvMUoxbn=w1003-h669-s-no-gm?authuser=0",
