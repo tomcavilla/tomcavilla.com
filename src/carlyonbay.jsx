@@ -14,18 +14,11 @@ const CarlyonBay = () => {
                 <div className="container mx-auto p-8">
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">
                         {images.map((image, index) => (
-                            <div 
-                                key={index} 
-                                className={`overflow-hidden shadow-md
-                                    ${image.orientation === "portrait" ? "row-span-2" : "row-span-1"}
-                                `}
-                            >
                                 <img
                                     src={image.src}
                                     alt=""
                                     className="w-full h-full object-cover"
                                 />
-                            </div>
                         ))}
                     </div>
                 </div>
