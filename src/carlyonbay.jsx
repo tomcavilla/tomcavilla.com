@@ -12,13 +12,16 @@ const CarlyonBay = () => {
             <div className="py-16 text-center">
                 <h1 className="text-7xl">Carlyon Bay 02/03/25</h1>
                 <div className="container mx-auto p-8">
-                        {images.map((image, index) => (
-                                <img
-                                    src={image.src}
-                                    alt=""
-                                    className="w-full h-full object-cover"
-                                />
-                        ))}
+                <div className="grid grid-cols-1 gap-4">
+                    {images.map((image, index) => (
+                        <img
+                            key={index}
+                            src={image.src}
+                            alt=""
+                            className="w-full h-auto object-cover"
+                        />
+                    ))}
+                </div>
                 </div>
             </div>
         </div>
