@@ -20,7 +20,7 @@ const Gallery = () => {
             title: "Carlyon Bay 02/03/25",
             description: "Walk from Duport to Carlyon Bay, along the coast path. Shot on Fujifilm x100F.",
             image: "https://lh3.googleusercontent.com/pw/AP1GczNC1RU-ryZhl2n54yFMg7fcAXCbGzlDz0ZdOxzgOi9p6-4qo67Cz1-nYazUJtkxb8OvCXNbbUvkwP7ZcQIOM0SqmTi29iLtu-1_o3fgPAJm2-A08gcP0zk8tArSgTAHeodtqUi0xVnPBr_Wiy5u2CTc=w1562-h1042-s-no-gm?authuser=0",
-            link: "../carlyon-bay/",
+            link: "../carlyonbay/",
         },
         {
             title: "Topsham 18/02/25",

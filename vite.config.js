@@ -24,7 +24,10 @@ export default defineConfig({
         mevagissey: resolve(__dirname, 'mevagissey/index.html'),
         dartmoor: resolve(__dirname, "dartmoor/index.html"),
         bristol: resolve(__dirname, "bristol/index.html"),
-        bjj: resolve(__dirname, "bjj/index.html")
+        bjj: resolve(__dirname, "bjj/index.html"),
+        carlyonbay: resolve(__dirname, "carlyon-bay/index.html"),
+        severn: resolve(__dirname, "severn/index.html"),
+        bjj2: resolve(__dirname, "bjj2/index.html"),
       },
     },
   },
