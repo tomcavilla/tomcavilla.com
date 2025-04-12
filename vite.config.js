@@ -25,7 +25,7 @@ export default defineConfig({
         dartmoor: resolve(__dirname, "dartmoor/index.html"),
         bristol: resolve(__dirname, "bristol/index.html"),
         bjj: resolve(__dirname, "bjj/index.html"),
-        carlyonbay: resolve(__dirname, "carlyon-bay/index.html"),
+        carlyonbay: resolve(__dirname, "carlyonbay/index.html"),
         severn: resolve(__dirname, "severn/index.html"),
         bjj2: resolve(__dirname, "bjj2/index.html"),
       },
